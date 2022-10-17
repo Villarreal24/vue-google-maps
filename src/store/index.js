@@ -36,11 +36,7 @@ export default createStore({
         const coords = position.coords;
         commit('setLocation', coords)
       })
-    },
-    clickLocation(event) {
-      console.log(event.latLng.lat())
-      console.log(event.latLng.lng())
-  }
+    }
   },
   modules: {
   }
