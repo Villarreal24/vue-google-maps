@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "@fawmi/vue-google-maps": "^0.9.79",
+    "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2",
+    "bootstrap-vue": "^2.22.0",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13",
+    "vue": "^3.2.41",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
   },
